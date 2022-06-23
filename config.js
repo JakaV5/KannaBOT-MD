@@ -59,9 +59,9 @@ global.ppulsa2 = '081335334848'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '79111309292'
+global.nomorbot = '6281335334848'
 global.nomorown = '6285785694474'
-global.namebot = 'VīoLaꪶ͢Botzꫂ⁩'
+global.namebot = 'Jesīcaꪶ͢Botzꫂ⁩'
 global.nameown = 'ζλκλꪶ͢Kunꫂ⁩'
 
 
@@ -116,13 +116,13 @@ global.APIKeys = { // APIKey Here
 
 /*============== WATERMARK ==============*/
 //GANTI SETERAH MU
-global.wm = '                「 VīoLaꪶ͢Botzꫂ⁩ あ⁩ 」' //Main Watermark
+global.wm = '                「 Jesīcaꪶ͢Botzꫂ⁩ あ⁩ 」' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘VīoLaꪶ͢Chanꫂ⁩˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ VīoLaꪶ͢Botzꫂ⁩'
+global.wm3 = '⫹⫺ Jesīcaꪶ͢Botzꫂ⁩'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = '🌱 ┊ 𝗥𝗣𝗚 Whatsapp ʙᴏᴛ'
-global.author = '                「 VīoLaꪶ͢Botzꫂ⁩ あ⁩ 」'
+global.author = '                「 Jesīcaꪶ͢Botzꫂ⁩ あ⁩ 」'
 
 
 /*============== LOGO ==============*/

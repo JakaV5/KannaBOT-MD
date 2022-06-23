@@ -10,7 +10,7 @@ contextInfo: { externalAdReply :{
                         description: 'anu',
                         title: bottime,
                         body: 'PLIS JANGAN SPAM',          previewType: 0,
-                        thumbnail: fs.readFileSync("./menuh.jpg"),
+                        thumbnail: fs.readFileSync("./thumbnail.jpg"),
                         sourceUrl: sig
                       }}
 })
